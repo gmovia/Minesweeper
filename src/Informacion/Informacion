@@ -1,0 +1,9 @@
+* Enunciado
+
+El Buscaminas es un juego compuesto por un mapa y un conjunto de celdas. Cada una de esas celdas pueden
+o bien estar vacias o contener una bomba. El juego consiste en seleccionar un casillero, en el caso de
+que contenga una bomba, el juego finaliza y el jugador pierde la partida. En caso de que el casillero este
+vacio entonces debe repetir el procedimiento hasta encontrar todos los casilleros que se encuentran vacios.
+Cuando el jugador selecciona un casillero vacio, el mismo indicara la cantidad de casilleros vecinos que
+contienen una bomba.
+
